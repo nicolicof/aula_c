@@ -4,7 +4,7 @@
 
 int main()
 {
-	char nome[30] = "Nícolas";
+	char nome[30] = "jo";
 	char curso[16] = "Informática";
 	int idade = 21;
 	
